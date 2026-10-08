@@ -14,7 +14,7 @@ public class ChopsticksGame {
     public ChopsticksGame() {
         resetGame();
     }
-
+//
     public void resetGame() {
         p1Left = 1;
         p1Right = 1;
